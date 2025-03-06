@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1w4khg9JnTIOTEPixVUB6j++lHjsHtXQbdVA2gQEw9Y=",
+  "Source": "DapperPostgresDemo.Api",
+  "BasePath": "_content/DapperPostgresDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uj5Tp6M+8uE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JC\\Desktop\\Studs\\SolidarityHub\\SolidarityHub\\BusinessLogic\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
